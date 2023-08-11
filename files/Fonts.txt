@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Solway
+Author: Mariya V. Pigoulevskaya,The Northern Block
+Url: https://fonts.google.com/specimen/Solway
+
+Font: Londrina Solid
+Author: Marcelo Magalhães
+Url: https://fonts.google.com/specimen/Londrina+Solid
